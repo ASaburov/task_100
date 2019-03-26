@@ -1,0 +1,14 @@
+<environment>
+    <parameter>
+        <key>Browser</key>
+        <value>Firefox</value>
+    </parameter>
+    <parameter>
+        <key>Browser.Version</key>
+        <value>65.0.2 (64-bit)</value>
+    </parameter>
+    <parameter>
+        <key>Stand</key>
+        <value>Production</value>
+    </parameter>
+</environment>
